@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Kode Editor Sample</string>
+    <string name="samples_desc">List of kode samples provided by this plugin</string>
+</resources>
